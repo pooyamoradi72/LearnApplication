@@ -1,2 +1,17 @@
 # LearnApplication
-this Application Create for Software Engineer Class.
+<h2>Programmer: Pooya Moradi</h2>
+<p>
+  This Program Created for Software Engineer Class.
+</p>
+<ul>
+  <li>
+    C#
+  </li>
+  <li>
+    DOTNET MAUI
+  </li>
+  <li>SQL Lite</li>
+</ul>
+<hr />
+
+<p>All Right Reserved © CopyRight2024 | Pooya Moradi</p>
