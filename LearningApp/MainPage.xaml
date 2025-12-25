@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningApp.MainPage"
+             BackgroundColor="White"
+             FlowDirection="RightToLeft"
+             Title="ورود به حساب کاربری">
+    
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30"
+                             Spacing="20"
+                             VerticalOptions="Center">
+
+            <!-- آیکون قفل -->
+            <Image Source="lock_icon.png"
+                   HeightRequest="150"
+                   HorizontalOptions="Center"/>
+
+            <!-- عنوان -->
+            <Label Text="ورود به حساب کاربری"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+
+            <!-- نام کاربری -->
+            <Entry x:Name="UsernameEntry"
+                   Placeholder="نام کاربری / ایمیل"
+                   Keyboard="Email"
+                   FontSize="16"
+                   BackgroundColor="White"
+                   TextColor="Black"
+                   HeightRequest="50"/>
+
+            <!-- رمز عبور -->
+            <Entry x:Name="PasswordEntry"
+                   Placeholder="کلمه عبور"
+                   IsPassword="True"
+                   FontSize="16"
+                   BackgroundColor="White"
+                   TextColor="Black"
+                   HeightRequest="50"/>
+
+            <!-- فراموشی رمز -->
+            <Label Text="فراموشی کلمه عبور؟"
+                   TextColor="Blue">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="ForgotPassword_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+            <!-- دکمه‌ها -->
+            <HorizontalStackLayout Spacing="20"
+                                   HorizontalOptions="Center">
+
+                <Button Text="انصراف"
+                        BackgroundColor="#E0E0E0"
+                        TextColor="Black"
+                        WidthRequest="120"
+                        Clicked="CancelButton_Clicked"/>
+
+                <Button Text="ورود"
+                        BackgroundColor="#6A5ACD"
+                        TextColor="White"
+                        WidthRequest="120"
+                        Clicked="LoginButton_Clicked"/>
+
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

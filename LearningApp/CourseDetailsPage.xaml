@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningApp.CourseDetailsPage"
+             Title="جزئیات دوره">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="15" Spacing="15">
+
+             <!--تصویر دوره-->
+            <Image Source="{Binding Image}" 
+       Aspect="AspectFit" 
+       HorizontalOptions="Fill" 
+       VerticalOptions="Start"
+       HeightRequest="200"/>
+
+
+            <!-- عنوان و توضیحات -->
+            <Label Text="{Binding Title}" FontSize="22" FontAttributes="Bold"/>
+            <!--<Label Text="{Binding Description}" 
+       FontSize="14"
+       HorizontalTextAlignment="End"
+       FlowDirection="RightToLeft"/>-->
+
+            <VerticalStackLayout Padding="15" Spacing="15" FlowDirection="RightToLeft">
+
+                <!-- توضیحات دوره -->
+                <Label Text="{Binding Description}" 
+           FontSize="14"
+           HorizontalOptions="Fill"
+           HorizontalTextAlignment="Start"/>
+            </VerticalStackLayout>
+            <!-- دکمه خرید -->
+            <Button x:Name="BuyButton" 
+        Text="افزودن به سبد خرید" 
+        Clicked="BuyButton_Clicked"/>
+
+            <!-- لیست جلسات -->
+            <Label Text="جلسات دوره" FontSize="18" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <CollectionView x:Name="LessonsCollection"
+                SelectionMode="Single"
+                SelectionChanged="Lessons_SelectionChanged">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Border Stroke="LightGray"
+                    StrokeThickness="1"
+                    StrokeShape="RoundRectangle 10"
+                    Padding="10"
+                    Margin="0,5">
+                            <Label Text="{Binding Title}" FontSize="16"/>
+                        </Border>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
