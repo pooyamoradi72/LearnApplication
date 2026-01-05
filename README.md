@@ -1,7 +1,7 @@
 # LearnApplication
 <h2>Programmer: Pooya Moradi</h2>
 <p>
-  This Program Created for Software Engineer Class.
+  This Program Created for the Software Engineer Class.
 </p>
 <ul>
   <li>
@@ -12,6 +12,9 @@
   </li>
   <li>SQL Lite</li>
 </ul>
+  </li>
+  <li>UI: XMAL</li>
+</ul>
 <hr />
-
+<p>ACER PC</p>
 <p>All Right Reserved © CopyRight2025-2026 | Pooya Moradi</p>
