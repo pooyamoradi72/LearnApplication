@@ -11,8 +11,6 @@
     DOTNET MAUI
   </li>
   <li>SQL Lite</li>
-</ul>
-  </li>
   <li>UI: XMAL</li>
 </ul>
 <hr />
