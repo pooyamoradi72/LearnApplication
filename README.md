@@ -14,4 +14,4 @@
 </ul>
 <hr />
 
-<p>All Right Reserved © CopyRight2024 | Pooya Moradi</p>
+<p>All Right Reserved © CopyRight2025-2026 | Pooya Moradi</p>
