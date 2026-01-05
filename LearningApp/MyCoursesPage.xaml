@@ -1,0 +1,26 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningApp.MyCoursesPage"
+             Title="دوره‌های من">
+
+    <VerticalStackLayout Padding="15" Spacing="10">
+
+        <Button Text="سبد خرید" Clicked="CartButton_Clicked" BackgroundColor="#6A5ACD" TextColor="White"/>
+
+        <CollectionView x:Name="CoursesCollection"
+                        SelectionMode="Single"
+                        SelectionChanged="Course_Selected">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border Padding="10" Margin="5">
+                        <HorizontalStackLayout>
+                            <Image Source="{Binding CourseImage}" WidthRequest="60"/>
+                            <Label Text="{Binding Title}" VerticalOptions="Center"/>
+                        </HorizontalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

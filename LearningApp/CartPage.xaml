@@ -1,0 +1,27 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningApp.CartPage"
+             Title="سبد خرید">
+
+    <VerticalStackLayout Padding="15">
+
+        <CollectionView x:Name="CartCollection">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border Padding="10" Margin="5">
+                        <HorizontalStackLayout>
+                            <Image Source="{Binding CourseImage}" WidthRequest="60"/>
+                            <Label Text="{Binding CourseTitle}"
+                                   VerticalOptions="Center"/>
+                        </HorizontalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="خرید نهایی"
+                Clicked="Checkout_Clicked"
+                BackgroundColor="#6A5ACD"
+                TextColor="White"/>
+    </VerticalStackLayout>
+</ContentPage>

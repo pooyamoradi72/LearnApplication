@@ -53,7 +53,8 @@ namespace LearningApp
                 }
 
                 // جلسات دوره‌ها
-                var lessons = await _db.GetLessonsByCourseIdAsync(c.Id);
+                var lessons = await _db.GetLessonsAsync(c.Id);
+
                 if (lessons.Count == 0)
                 {
                     if (c.Title == "C#")

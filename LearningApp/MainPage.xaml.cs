@@ -14,21 +14,23 @@ namespace LearningApp
 
         private async void LoginButton_Clicked(object sender, EventArgs e)
         {
-            var user = await _db.GetUserAsync(
-                UsernameEntry.Text,
-                PasswordEntry.Text
-            );
+            var username = UsernameEntry.Text;
+            var password = PasswordEntry.Text;
 
+            var user = await _db.GetUserAsync(username!, password!);
             if (user != null)
             {
-                await DisplayAlert("موفق", "ورود انجام شد", "باشه");
-                await Navigation.PushAsync(new CoursesPage(_db));
+                await DisplayAlert("موفق", "ورود موفق", "باشه");
+
+                // ایجاد NavigationPage روی CoursesPage (یا MyCoursesPage)
+                Application.Current.MainPage = new NavigationPage(new CoursesPage(_db));
             }
             else
             {
-                await DisplayAlert("خطا", "نام کاربری یا رمز عبور اشتباه است", "باشه");
+                await DisplayAlert("خطا", "نام کاربری یا رمز اشتباه است", "باشه");
             }
         }
+
 
 
         private async void ForgotPassword_Tapped(object sender, EventArgs e)

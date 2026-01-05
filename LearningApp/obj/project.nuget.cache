@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4FK98VfjcU=",
+  "dgSpecHash": "ss/VtGYd9z8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pooya Moradi\\Desktop\\LearningApp\\LearningApp\\LearningApp.csproj",
+  "projectFilePath": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\LearningApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pooya Moradi\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
     "C:\\Users\\Pooya Moradi\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.8\\microsoft.extensions.configuration.9.0.8.nupkg.sha512",

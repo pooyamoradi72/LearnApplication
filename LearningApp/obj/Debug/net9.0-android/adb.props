@@ -1,2 +1,2 @@
-AdbTarget=
+AdbTarget=-s SOLBW4TOMRLZ5PPB
 AdbOptions=

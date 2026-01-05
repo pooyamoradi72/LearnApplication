@@ -12,55 +12,67 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LearningApp
-build_property.ProjectDir = C:\Users\Pooya Moradi\Desktop\LearningApp\LearningApp\
+build_property.ProjectDir = C:\Users\Pooya Moradi\Desktop\New folder (2)\LearningApp - Copy\LearningApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/App.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/AppShell.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/CourseAccessPage.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/CartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.CartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CartPage.xaml
+
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/CourseAccessPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.CourseAccessPage.xaml
 build_metadata.AdditionalFiles.TargetPath = CourseAccessPage.xaml
 build_metadata.AdditionalFiles.RelativePath = CourseAccessPage.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/CourseDetailsPage.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/CourseDetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.CourseDetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = CourseDetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = CourseDetailsPage.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/CoursesPage.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/CoursesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.CoursesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = CoursesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = CoursesPage.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/MainPage.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/Resources/Styles/Colors.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/MyCoursesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.MyCoursesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MyCoursesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MyCoursesPage.xaml
+
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Pooya Moradi/Desktop/LearningApp/LearningApp/Resources/Styles/Styles.xaml]
+[C:/Users/Pooya Moradi/Desktop/New folder (2)/LearningApp - Copy/LearningApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LearningApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

@@ -19,29 +19,29 @@ namespace LearningApp
 
         private async void LoadLessons()
         {
-            var lessons = await _db.GetLessonsAsync(_course.Id);
-            LessonsCollection.ItemsSource = lessons;
+            LessonsCollection.ItemsSource = await _db.GetLessonsAsync(_course.Id);
         }
 
-        // این امضای متد حتماً باید دقیقاً همین باشه
-        private async void Lessons_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void Lessons_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (e.CurrentSelection != null && e.CurrentSelection.Count > 0)
-            {
-                var lesson = e.CurrentSelection[0] as Lesson;
-                if (lesson != null && !string.IsNullOrEmpty(lesson.DownloadLink))
-                {
-                    await Browser.OpenAsync(lesson.DownloadLink, BrowserLaunchMode.SystemPreferred);
-                }
-            }
+            ((CollectionView)sender).SelectedItem = null;
         }
+
         private async void BuyButton_Clicked(object sender, EventArgs e)
         {
-            // پیام کوتاه
-            await DisplayAlert("دسترسی به دوره", "دسترسی به دوره باز شد", "باشه");
+            // اضافه کردن دوره به سبد خرید
+            await _db.AddToCartAsync(new CartItem { CourseId = _course.Id });
 
-            // رفتن به صفحه CourseAccessPage
-            await Navigation.PushAsync(new CourseAccessPage(_course, _db));
+            // پیام کوتاه به کاربر
+            await DisplayAlert(
+                "سبد خرید",
+                "دوره به سبد خرید اضافه شد",
+                "باشه"
+            );
+
+            // رفتن خودکار به CartPage
+            await Navigation.PushAsync(new CartPage(_db));
         }
+
     }
 }

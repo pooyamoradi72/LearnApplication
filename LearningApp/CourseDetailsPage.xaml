@@ -53,6 +53,46 @@
                 </CollectionView.ItemTemplate>
             </CollectionView>
 
+
+            <!-- نظرات کاربران -->
+            <!--<Label Text="نظرات کاربران"
+       FontSize="18"
+       FontAttributes="Bold"
+       Margin="0,20,0,0"/>
+
+            <Entry x:Name="CommentEntry"
+       Placeholder="نظر خود را بنویسید..."
+       BackgroundColor="White"/>
+
+            <Button Text="ارسال نظر"
+        Clicked="AddComment_Clicked"
+        BackgroundColor="#6A5ACD"
+        TextColor="White"/>-->
+
+            <CollectionView x:Name="CommentsCollection">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Border Stroke="LightGray"
+                    StrokeThickness="1"
+                    StrokeShape="RoundRectangle 8"
+                    Padding="10"
+                    Margin="0,5">
+
+                            <VerticalStackLayout>
+                                <Label Text="{Binding UserName}"
+                           FontAttributes="Bold"/>
+                                <Label Text="{Binding Text}"
+                           FontSize="14"/>
+                                <Label Text="{Binding CreatedAt}"
+                           FontSize="11"
+                           TextColor="Gray"/>
+                            </VerticalStackLayout>
+
+                        </Border>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

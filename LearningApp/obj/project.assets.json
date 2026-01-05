@@ -28504,11 +28504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pooya Moradi\\Desktop\\LearningApp\\LearningApp\\LearningApp.csproj",
+      "projectUniqueName": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\LearningApp.csproj",
       "projectName": "LearningApp",
-      "projectPath": "C:\\Users\\Pooya Moradi\\Desktop\\LearningApp\\LearningApp\\LearningApp.csproj",
+      "projectPath": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\LearningApp.csproj",
       "packagesPath": "C:\\Users\\Pooya Moradi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pooya Moradi\\Desktop\\LearningApp\\LearningApp\\obj\\",
+      "outputPath": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

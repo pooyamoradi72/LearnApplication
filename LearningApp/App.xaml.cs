@@ -1,4 +1,5 @@
-﻿using SQLite;
+﻿using Microsoft.Maui.Controls;
+using System.IO;
 
 namespace LearningApp
 {
@@ -13,20 +14,8 @@ namespace LearningApp
             var dbPath = Path.Combine(FileSystem.AppDataDirectory, "learning.db");
             Database = new AppDatabase(dbPath);
 
-            // ساخت یوزر پیش‌فرض
             SeedUser();
-
-
-            ////using (var db = new SQLiteConnection(dbPath))
-            ////{
-            ////    // حذف جدول قدیمی اگر وجود دارد
-            ////    db.DropTable<User>();
-
-            ////    // ایجاد جدول جدید
-            ////    db.CreateTable<User>();
-            ////}
         }
-        
 
         private async void SeedUser()
         {
@@ -44,11 +33,11 @@ namespace LearningApp
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
+            // وقتی برنامه باز میشه، اول صفحه لاگین بیاد
             return new Window(
-                new NavigationPage(
-                    new MainPage(Database)   // صفحه لاگین
-                )
+                new MainPage(Database)
             );
         }
+
     }
 }
