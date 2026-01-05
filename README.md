@@ -14,5 +14,5 @@
   <li>UI: XMAL</li>
 </ul>
 <hr />
-<p>ACER PC ||| Pooya Moradi</p>
+<p>ACER PC |||| Pooya Moradi</p>
 <p>All Right Reserved © CopyRight2025-2026 | Pooya Moradi</p>
