@@ -15,6 +15,8 @@ namespace LearningApp
             Database = new AppDatabase(dbPath);
 
             SeedUser();
+
+
         }
 
         private async void SeedUser()
@@ -29,6 +31,16 @@ namespace LearningApp
                     Password = "1234"
                 });
             }
+           // string dbPath;
+
+//#if WINDOWS
+//            var desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+//            dbPath = Path.Combine(desktopPath, "learning.db");
+//#else
+//dbPath = Path.Combine(FileSystem.AppDataDirectory, "learning.db");
+//#endif
+
+//            Database = new AppDatabase(dbPath);
         }
 
         protected override Window CreateWindow(IActivationState? activationState)
@@ -37,7 +49,10 @@ namespace LearningApp
             return new Window(
                 new MainPage(Database)
             );
+
+
         }
+
 
     }
 }

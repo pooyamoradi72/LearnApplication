@@ -59,15 +59,15 @@ namespace LearningApp
                 {
                     if (c.Title == "C#")
                     {
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 1", DownloadLink = "https://example.com/csharp_lesson1.mp4" });
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 2", DownloadLink = "https://example.com/csharp_lesson2.mp4" });
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 3", DownloadLink = "https://example.com/csharp_lesson3.mp4" });
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 4", DownloadLink = "https://example.com/csharp_lesson4.mp4" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 1", DownloadLink = "https://aparat.com" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 2", DownloadLink = "https://aparat.com" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 3", DownloadLink = "https://aparat.com" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 4", DownloadLink = "https://aparat.com" });
                     }
                     else
                     {
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 1", DownloadLink = "https://example.com/lesson1.mp4" });
-                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 2", DownloadLink = "https://example.com/lesson2.mp4" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 1", DownloadLink = "https://aparat.com" });
+                        await _db.SaveLessonAsync(new Lesson { CourseId = c.Id, Title = "جلسه 2", DownloadLink = "https://aparat.com" });
                     }
                 }
             }
@@ -87,6 +87,14 @@ namespace LearningApp
                 }
             }
         }
+
+        private async void MyCourses_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MyCoursesPage(_db));
+        }
+
+
+
 //        private void ShowDatabasePath()
 //        {
 //            var dbPath = Path.Combine(FileSystem.AppDataDirectory, "learning.db");
@@ -94,18 +102,18 @@ namespace LearningApp
 //            DisplayAlert("مسیر دیتابیس", dbPath, "باشه");
 
 //#if WINDOWS
-//                        var desktopPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "learning_copy.db");
-//                        if (File.Exists(dbPath))
-//                        {
-//                            File.Copy(dbPath, desktopPath, overwrite: true);
-//                            DisplayAlert("کپی شد", $"فایل دیتابیس روی دسکتاپ کپی شد:\n{desktopPath}", "باشه");
-//                        }
+//            var desktopPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "learning_copy1.db");
+//            if (File.Exists(dbPath))
+//            {
+//                File.Copy(dbPath, desktopPath, overwrite: true);
+//                DisplayAlert("کپی شد", $"فایل دیتابیس روی دسکتاپ کپی شد:\n{desktopPath}", "باشه");
+//            }
 //#endif
 //        }
 
-//        private void ShowDbButton_Clicked(object sender, EventArgs e)
-//        {
-//            ShowDatabasePath();
-//        }
+        //private void ShowDbButton_Clicked(object sender, EventArgs e)
+        //{
+        //    ShowDatabasePath();
+        //}
     }
 }

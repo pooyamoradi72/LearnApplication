@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\models\\courseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\models\\courseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mycoursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mycoursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\coursedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -19,28 +55,8 @@
       "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursedetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\coursedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\coursedetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mycoursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mycoursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mycoursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mycoursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\purchasedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|c:\\users\\pooya moradi\\desktop\\new folder (2)\\learningapp - copy\\learningapp\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714B571A-BE2A-4327-AE85-4F67235F81D3}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,50 +74,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "CourseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\Models\\CourseAccess.cs",
+              "RelativeDocumentMoniker": "LearningApp\\Models\\CourseAccess.cs",
+              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\Models\\CourseAccess.cs",
+              "RelativeToolTip": "LearningApp\\Models\\CourseAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:38:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CoursesPage.xaml",
+              "RelativeDocumentMoniker": "LearningApp\\CoursesPage.xaml",
+              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CoursesPage.xaml",
+              "RelativeToolTip": "LearningApp\\CoursesPage.xaml",
+              "ViewState": "AgIAAA8AAAAANDMzMzP7vyYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-05T06:20:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CourseDetailsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CourseDetailsPage.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\CourseDetailsPage.xaml.cs",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CourseDetailsPage.xaml.cs",
               "RelativeToolTip": "LearningApp\\CourseDetailsPage.xaml.cs",
-              "ViewState": "AgIAABAAAACAmZmZmZktwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAYWZmZmbmvyoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T17:15:42.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "CourseDetailsPage.xaml",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CourseDetailsPage.xaml",
               "RelativeDocumentMoniker": "LearningApp\\CourseDetailsPage.xaml",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CourseDetailsPage.xaml",
               "RelativeToolTip": "LearningApp\\CourseDetailsPage.xaml",
-              "ViewState": "AgIAABEAAACAmZmZmZkuwBYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-04T17:15:37.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MainPage.xaml.cs",
               "RelativeToolTip": "LearningApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAMAAABAZmZmZmYUwCUAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T17:10:18.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MyCoursesPage.xaml",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MyCoursesPage.xaml",
               "RelativeDocumentMoniker": "LearningApp\\MyCoursesPage.xaml",
@@ -117,38 +151,37 @@
               "RelativeToolTip": "LearningApp\\MyCoursesPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-04T17:05:40.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T17:05:40.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "LearningApp\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MainPage.xaml",
               "RelativeToolTip": "LearningApp\\MainPage.xaml",
-              "ViewState": "AgIAABkAAABAMzMzMzMbwBUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-04T17:02:51.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\App.xaml.cs",
               "RelativeToolTip": "LearningApp\\App.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAABAMzMzMzMpwCcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T17:00:52.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\AppShell.xaml.cs",
@@ -156,12 +189,11 @@
               "RelativeToolTip": "LearningApp\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:58:57.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:58:57.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "LearningApp\\AppShell.xaml",
@@ -169,77 +201,76 @@
               "RelativeToolTip": "LearningApp\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-04T16:58:37.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:58:37.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "CartPage.xaml",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CartPage.xaml",
               "RelativeDocumentMoniker": "LearningApp\\CartPage.xaml",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CartPage.xaml",
               "RelativeToolTip": "LearningApp\\CartPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-04T16:55:02.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CoursesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CoursesPage.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\CoursesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CoursesPage.xaml.cs",
-              "RelativeToolTip": "LearningApp\\CoursesPage.xaml.cs",
-              "ViewState": "AgIAAEoAAAAAAQAAAAAMwFQAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CoursesPage.xaml.cs*",
+              "RelativeToolTip": "LearningApp\\CoursesPage.xaml.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T16:38:12.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CartPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CartPage.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\CartPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CartPage.xaml.cs*",
-              "RelativeToolTip": "LearningApp\\CartPage.xaml.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\CartPage.xaml.cs",
+              "RelativeToolTip": "LearningApp\\CartPage.xaml.cs",
+              "ViewState": "AgIAACkAAADgzMzMzMwuwDcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T16:34:20.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MyCoursesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MyCoursesPage.xaml.cs",
               "RelativeDocumentMoniker": "LearningApp\\MyCoursesPage.xaml.cs",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\MyCoursesPage.xaml.cs",
               "RelativeToolTip": "LearningApp\\MyCoursesPage.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAADAmZmZmZkbwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T16:24:29.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "AppDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\Data\\AppDatabase.cs",
               "RelativeDocumentMoniker": "LearningApp\\Data\\AppDatabase.cs",
               "ToolTip": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\Data\\AppDatabase.cs",
               "RelativeToolTip": "LearningApp\\Data\\AppDatabase.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAzwIUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T16:18:41.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "PurchasedCourse.cs",
               "DocumentMoniker": "C:\\Users\\Pooya Moradi\\Desktop\\New folder (2)\\LearningApp - Copy\\LearningApp\\PurchasedCourse.cs",
               "RelativeDocumentMoniker": "LearningApp\\PurchasedCourse.cs",
